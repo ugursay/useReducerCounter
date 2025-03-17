@@ -1,2 +1,16 @@
-# useReducerCounter
- This is a simple counter application built with React using the useReducer hook. It allows users to increase, decrease, and reset the counter.
+# Counter App with useReducer
+
+A simple React counter app using the `useReducer` hook.
+
+## Features
+
+- Increase the counter
+- Decrease the counter
+- Reset the counter
+
+## Tech Stack
+
+- React
+- useReducer Hook
+
+Enjoy coding! 🚀
